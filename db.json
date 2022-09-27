@@ -1,0 +1,7 @@
+{
+  "current_section": [
+    { "id": 1, "title": "green", "time": 10, "direction": "right" },
+    { "id": 2, "title": "yellow", "time": 15, "direction": "forward" },
+    { "id": 3, "title": "red", "time": 30, "direction": "left" }
+  ]
+}

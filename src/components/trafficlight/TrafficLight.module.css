@@ -1,0 +1,42 @@
+.green {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+  transition-delay: 300ms;
+}
+.yellow {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+  transition-delay: 300ms;
+}
+.red {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+  transition-delay: 300ms;
+}
+.traffic_light_card {
+  display: flex;
+  align-items: center;
+  border: 2px solid;
+  padding: 20px;
+  width: 40vw;
+}
+.main_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.time_indicator {
+  font-family: "Rammetto One", cursive;
+  font-size: 26px;
+  margin-left: 40px;
+}
